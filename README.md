@@ -11,7 +11,7 @@ Le projet Hangman est un jeu classique de devinette où les joueurs tentent de d
 - Notification de la victoire ou de la défaite du joueur
 
 ## Comment jouer
-1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/hangman.git`
+1. Clonez le dépôt : `git clone https://github.com/Tsilavina007/hangman_J2`
 2. Naviguez vers le répertoire du projet : `cd hangman`
 3. Exécutez le jeu : `node index.js`
 
@@ -19,7 +19,7 @@ Le projet Hangman est un jeu classique de devinette où les joueurs tentent de d
 - Node.js (version 16.18.0)
 
 ## Auteurs
-- [Tsilavina](https://github.com/votre-utilisateur)
+- [Tsilavina](https://github.com/Tsilavina007)
 - [Freddy]
 - [Vaninah]
 - [Nomena]
