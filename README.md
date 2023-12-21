@@ -1,5 +1,5 @@
 # Hangman Game Project
-![Capture](capture.jpg)
+![Capture](Capture.jpg)
 ## Description
 Le projet Hangman est un jeu classique de devinette où les joueurs tentent de deviner un mot en proposant des lettres, avec un nombre limité d'erreurs autorisées.
 
