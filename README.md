@@ -5,7 +5,7 @@ Le projet Hangman est un jeu classique de devinette où les joueurs tentent de d
 
 ## Fonctionnalités
 - Sélection aléatoire d'un mot à deviner
-- Affichage du mot avec des tirets pour représenter les lettres inconnues
+- Affichage du mot avec des étoiles pour représenter les lettres inconnues
 - Proposition de lettres au joueur
 - Gestion des erreurs et mise à jour de l'état du pendu
 - Notification de la victoire ou de la défaite du joueur
