@@ -25,3 +25,6 @@ Le projet Hangman est un jeu classique de devinette où les joueurs tentent de d
 - [Nomena](https://github.com/nomenafitahiana)
 - [Ranto](https://github.com/ranto-creat)
 - [Tojo]
+
+
+Merci !
